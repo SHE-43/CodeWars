@@ -1,0 +1,1 @@
+Codewars level : 7
